@@ -1,0 +1,17 @@
+
+
+[ User Command: node liri.js my-tweets ]
+
+ERROR: Retrieving user tweets - [object Object]
+
+[ User Command: node liri.js movie-this apocalypto ]
+
+[ User Command: node liri.js my-tweets ]
+
+[ User Command: node liri.js spotify-this-song simple man ]
+
+[ User Command: node liri.js movie-this the matrix ]
+
+
+[ User Command: node liri.js do-what-it-says ][ User Command: node liri.js spotify-this-song "I Want it That Way"]
+
